@@ -1,0 +1,186 @@
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\ApplicationInsights.config
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\csc.exe
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\csc.exe.config
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\csc.rsp
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\csi.exe
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\csi.rsp
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.AppContext.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.IO.FileSystem.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\vbc.exe
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\vbc.exe.config
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\vbc.rsp
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\VBCSCompiler.exe
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\MedsStore.dll.config
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\MedsStore.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\MedsStore.pdb
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Antlr3.Runtime.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\EntityFramework.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\EntityFramework.SqlServer.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.Web.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.ApplicationInsights.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Newtonsoft.Json.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Owin.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\System.Web.Optimization.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\System.Web.Providers.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\WebGrease.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\System.Web.Optimization.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Antlr3.Runtime.pdb
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Newtonsoft.Json.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\EntityFramework.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\EntityFramework.SqlServer.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\System.Web.Providers.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.ApplicationInsights.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\bin\Microsoft.AI.Web.xml
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\obj\Debug\MedsStore.csprojResolveAssemblyReference.cache
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\obj\Debug\MedsStore.dll
+c:\users\epiokok\documents\visual studio 2017\Projects\MedsStore\MedsStore\obj\Debug\MedsStore.pdb
+C:\Users\epiokok\MedsStore\MedsStore\bin\ApplicationInsights.config
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\csc.exe
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\csc.exe.config
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\csc.rsp
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\csi.exe
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\csi.rsp
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.AppContext.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\vbc.exe
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\vbc.exe.config
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\vbc.rsp
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\epiokok\MedsStore\MedsStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\epiokok\MedsStore\MedsStore\bin\MedsStore.dll.config
+C:\Users\epiokok\MedsStore\MedsStore\bin\MedsStore.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\MedsStore.pdb
+C:\Users\epiokok\MedsStore\MedsStore\bin\Antlr3.Runtime.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\EntityFramework.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.Web.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Newtonsoft.Json.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Owin.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\System.Web.Optimization.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\System.Web.Providers.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\WebGrease.dll
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\System.Web.Optimization.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Antlr3.Runtime.pdb
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Newtonsoft.Json.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\EntityFramework.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\System.Web.Providers.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\epiokok\MedsStore\MedsStore\bin\Microsoft.AI.Web.xml
+C:\Users\epiokok\MedsStore\MedsStore\obj\Debug\MedsStore.csprojResolveAssemblyReference.cache
+C:\Users\epiokok\MedsStore\MedsStore\obj\Debug\MedsStore.dll
+C:\Users\epiokok\MedsStore\MedsStore\obj\Debug\MedsStore.pdb
